@@ -1,0 +1,3 @@
+@org.springframework.modulith.ApplicationModule
+
+package be.yassinhajaj.spring_modulith_flyway_bug_reproducer_1.modulea;
