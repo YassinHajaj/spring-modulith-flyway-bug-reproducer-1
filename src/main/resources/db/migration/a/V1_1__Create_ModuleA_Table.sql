@@ -1,0 +1,5 @@
+CREATE TABLE module_a_entity (
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255)
+);
+
